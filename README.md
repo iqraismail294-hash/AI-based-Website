@@ -1,2 +1,3 @@
-# AI-based-Website
-A fully functional website I made using nothing but AI tools. It's surprising how the AI is improving our work. 
+# HI MY NAME IS IQRA:
+I'm a second semester student of BSAI at superior university. I'm currently learning Python and Web development. I'm really excited to share my learning journey.
+Interested in Artificial Intelligence and problem solving
